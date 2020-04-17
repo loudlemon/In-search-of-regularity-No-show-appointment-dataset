@@ -5,7 +5,7 @@
 ### These qustions are:
    - Is it useful to send SMS reminders about appoinment date?
    - Does "Bolsa Familia" programm make people more conscious about their health?
-   - What desease has the most influence on people's behaviour?
+   - Which deseases has the most influence on people's behaviour?
    
 ### The project investigates the stated questions from multiple angles.Variables are investigated
 ### using both single-variable (1d) and multiple-variable (2d) explorations.
