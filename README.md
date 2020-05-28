@@ -1,4 +1,6 @@
-![](images/nurse_with_love.jpg)
+<p align="center">
+<img src = "images/nurse_with_love.jpg" >
+</p>
 
 
 **Important note**:
