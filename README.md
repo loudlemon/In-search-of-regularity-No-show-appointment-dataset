@@ -1,3 +1,6 @@
+![](images/nurse_with_love.jpg)
+
+
 **Important note**:
 If you get the message "Sorry, something went wrong. Reload?" 
 when viewing an *.ipynb - try to open that notebook  using 
